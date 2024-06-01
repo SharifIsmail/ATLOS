@@ -1,0 +1,11 @@
+* Define the context in which it is used
+* Look at comparable
+* Product Architecture
+    - Component Level
+
+
+1. Apperance Model
+2. Prove of Concept
+3. 
+
+Minimum Order Quantity: 1000 to 5000
